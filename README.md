@@ -75,7 +75,3 @@
 <img src="https://raw.githubusercontent.com/Kallew-Laugui-Bot/Kallew-Laugui-Bot/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
